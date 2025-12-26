@@ -1,2 +1,3 @@
 # Lukota-Libraries
-Teardown Modding API that makes it so much easier
+LuKota Libraries is an open-sourced Teardown Modding API that makes it a lot easier to create mods for the new scripting format/for multiplayer.
+
